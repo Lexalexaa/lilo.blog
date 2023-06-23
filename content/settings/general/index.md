@@ -1,7 +1,7 @@
 +++
 headless = true
 title = "Boobledibub"
-description = "a collection"
+description = "A Collection"
 footerLeft = ""
 footerRight = ""
 +++
