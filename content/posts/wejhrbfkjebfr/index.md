@@ -70,4 +70,6 @@ Zusammengefasst sei das Studium zwar stressig gewesen, rückblickend war es aber
 
 Da ich an einem ähnlichen Studiengang interessiert bin, gibt er mir noch den einen oder anderen Rat mit auf den Weg. Wäre er in meinem Alter, würde er nach Praktika in verschiedenen Bereichen suchen. Wenn man noch im Gymnasium ist, bekommt man dafür meistens noch keinen Lohn, dafür macht man wertvolle Erfahrungen. Während dem Studium sind die Praktika sogar bezahlt. Man lernt während eines Praktikums den Alltag im entsprechenden Beruf kennen und erlernt grundlegende Fähigkeiten wie zum Beispiel die Benutzung von verschiedener Software. Vielleicht erkennt man sogar, dass der Beruf gar nicht so zu einem passt und man vielleicht anstatt Physik Ingenieurwissenschaften studieren will oder sogar in eine ganz andere Richtung gehen will.  
 
+![Genfersee](genfersee.jpg)
+
 Anschliessend führt mich Bernhard zurück zum Ausgang vom CERN, wo ich mich bei ihm verabschiede und mich nochmals bedanke. Mit dem Tram fahre ich zurück zum Bahnhof, wo ich noch ein wenig Genf erkunde. In der schönen Mittagssonne denke ich über den Ausflug nach und geniesse die Wärme in Genf, bevor ich mit dem Zug zurück nach Bern in den Regen fahre.
