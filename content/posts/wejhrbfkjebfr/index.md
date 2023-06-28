@@ -6,7 +6,7 @@ pinned = true
 tags = ["deutsch", "reportage", "cern", "physik"]
 image = "cernn-min.jpg"
 +++
- <lead> Menschen sind seit jeher neugierig. Schon immer wollten sie mehr über das Leben, unsere Welt oder das Universum erfahren und ihr Wissen vergrössern. Dieser Neugier nachzugehen, ist der Job der zahlreichen Wissenschaftler*innen, die am oder mit dem CERN arbeiten.  <lead/> 
+Menschen sind seit jeher neugierig. Schon immer wollten sie mehr über das Leben, unsere Welt oder das Universum erfahren und ihr Wissen vergrössern. Dieser Neugier nachzugehen, ist der Job der zahlreichen Wissenschaftler*innen, die am oder mit dem CERN arbeiten.  
 
 #### Die bankrottgegangene Schraubenfabrik 
 
