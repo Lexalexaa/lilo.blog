@@ -1,7 +1,7 @@
 +++
 title = "CERN: In der Welt der kleinsten Teilchen "
 date = "2023-06-23"
-draft = true
+draft = false
 pinned = true
 tags = ["deutsch", "reportage", "cern", "physik"]
 image = "cernn-min.jpg"
