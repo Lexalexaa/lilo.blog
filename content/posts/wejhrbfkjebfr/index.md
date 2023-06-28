@@ -20,17 +20,11 @@ Bernhard rechtfertigt das Aussehen des CERNs damit, dass das CERN im Jahr 1954 g
 
 `Bernhard Holzer ist ein promovierter Physiker, senior Scientist am CERN, Studentenbetreuer am CERN in der Abteilung BEAMS. Zusammen mit den anderen Mitarbeitern seines Teams ist er dafür zuständig, neue Beschleuniger zu entwickeln oder die bereits gebauten zu verbessern. Er ist verheiratet und hat 5 Kinder, seine Frau ist ebenfalls Physikerin am CERN. `
 
-> ``
->
 > Ich bin immer dahingegangen, wo irgendwie anspruchsvolle interessante Arbeit war, und in der Physik ist das durchaus ein Vorteil. Da kann man überall arbeiten. 
->
->
 
 `Er hat in Grenoble und Heidenberg studiert und hat einige Zeit seiner Karriere an verschiedenen Instituten verbracht, er wurde schlussendlich gebeten, für ein Jahr am CERN zu arbeiten. Er beschloss zu bleiben und hat in den letzten 15 Jahren unter anderem an der Entdeckung des Higgs-Bosons gearbeitet. Gegenwärtig arbeitet sein Team daran, die Beschleuniger effizienter zu machen, indem sie kleiner, aber immer noch leistungsfähig, gemacht werden. Bernhard weiss auch, wie er seine Prioritäten richtig setzt, und hat vom gesamten Bürogebäude das Büro gewählt, das am nächsten zur Cafeteria liegt.  `
 
 `Während seines Rundgangs erklärt er mir, wie viel ihm die Arbeit hier bedeutet. Da die Beschleuniger tief unter der Erde liegen, könnte er die Daten auch von zu Hause aus analysieren, aber es ist die Arbeitsatmosphäre am CERN, die ihn jeden Tag zur Arbeit gehen lässt. Bernhard betont mehrfach, dass man als Physiker nicht mehr allein arbeitet, sondern dass es auf Teamarbeit und Kommunikation mit den anderen Abteilungen und anderen Wissenschaftlern ankommt. Er investiert sehr viel in seine Arbeit und liebt seinen Job. Während er über seine Arbeit und Berufserfahrung spricht, spricht er über die Vereinbarkeit von Beruf und Privatleben und darüber, wie leicht man die Außenwelt vergessen kann. Die Universität war sehr anspruchsvoll, sodass er manchmal seine Freizeit und Hobbys vergaß. Er rät mir, falls ich Physik studieren wollen sollte, darauf zu achten, dass ich meine Zeit gut einteile und nicht vergesse, meine Wochenenden mit etwas anderem als Physik zu verbringen.  `
-
-` `
 
 ### Ein Teilchenbeschleuniger im Kleinformat 
 
@@ -61,8 +55,6 @@ Nachdem mir Bernhard den LEIR gezeigt hat, trinken wir noch etwas in der Cafeter
 Während wir unsere Kaffees trinken, erzählt mir Bernhard von seinen Erfahrungen und dem Weg vom Studium bis heute. Sein Plan war es nämlich gar nicht immer Physiker am CERN zu werden. Zuerst war er in einer anderen Vorlesung gewesen, aber der Dozent war ihm zu langweilig. Er entschied sich andere Vorlesungen zu besuchen und traf auf einen «verrückten» Professor, bei dem die Studenten viele Projekte selbst durchführen konnten. Bernhard war direkt interessiert und meldete sich an. Mit dieser Idee kam aber auch viel Arbeit. Die Studenten mussten von morgens bis abends arbeiten. Dadurch lernte Bernhard auch andere Bereiche als die Theorie kennen. Es galt auch die technischen Aufgaben zu bewältigen, wobei nicht immer alles ganz glatt lief. Einmal habe er einen Testlauf durchgeführt und die Magnetfelder eingeschaltet, während die Kollegen noch am Bau beschäftigt waren. Es dauerte eine Weile, bis er bemerkte, dass die Stahlkappenschuhe eines Kollegen ihn an den Magneten zogen. Während den Geschichten, die mir Bernhard erzählt, muss ich immer wieder schmunzeln. Ich kann mir nur zu gut vorstellen, wie ein Arbeitskollege kopfüber an einem Magneten hängt. 
 
 Zusammengefasst sei das Studium zwar stressig gewesen, rückblickend war es aber eine wertvolle Zeit in seinem Leben. Nach dem Studium erhielt er in verschiedenen Ländern Anfragen, unteranderem in Frankreich. Er ging also ohne Familie, Freunde und Französischkenntnisse nach Frankreich, England und USA, um dort zu arbeiten. Ein toller Teil des Jobs sei die Abwechslung. Man macht nie 2 Jahre lang dasselbe und wenn man keine Lust mehr hat, auf einem Gebiet zu arbeiten, so kann man flexibel sein und andere Angebote annehmen. 
-
-
 
 > Ich habe einen Bekannten, der hat Engineering studiert, der hat gemeint, das war total locker, hat im wesentlichen Party gemacht. Das ging bei uns nicht. 
 
