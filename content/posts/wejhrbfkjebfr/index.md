@@ -1,11 +1,33 @@
 +++
-title = "wejhrbfkjebfr"
+title = "CERN: In der Welt der kleinsten Teilchen "
 date = "2023-06-23"
 draft = true
 pinned = true
+tags = ["deutsch", "reportage", "cern", "physik"]
+image = "cernn-min.jpg"
 +++
-> libkjhkhhhkjh ffwerewrgwegljhbsdsiuhailfuh 
 
-kajwehbfaizfkia rfhc ieurhoiseuh ikerzgf kehrbslhbr
 
-`jeajhzbc ezergf kjsbrhf uezgf akuzbrf `
+`Menschen sind seit jeher neugierig. Schon immer wollten sie mehr über das Leben, unsere Welt oder das Universum erfahren und ihr Wissen vergrössern. Dieser Neugier nachzugehen, ist der Job der zahlreichen Wissenschaftler*innen, die am oder mit dem CERN arbeiten. `
+
+###### Die bankrottgegangene Schraubenfabrik 
+
+
+
+Es ist der letzte Freitag im April 2023 und um 5 Uhr in der Früh klingelt mein Wecker. In zweieinhalb Stunden geht es von der Aare bis an den Genfersee, wo ich mich am CERN mit Physiker Bernhard Holzer treffe und von ihm durch eines der renommiertesten Zentren für physikalische Grundlagenforschung der Welt geführt werde. Ich mache mich also auf den Weg zum Bahnhof, während mich der Regen komplett durchnässt. Während der Fahrt bewundere ich die schönen Zugstrecken der Schweiz und als ich in Genf ankomme bin ich überrascht: Das Wetter in Genf ist einwandfrei. Vom Bahnhof aus gehe ich aufs Tram und esse noch ein Sandwich. An der Rezeption werde ich von Bernhard in Empfang genommen und spaziere mit ihm quer durchs Gelände zu seinem Büro. Beim Besuch von so einem angesehenen Wissenschaftszentrum erwartet man vielleicht futuristische Gebäude und ein organisiertes Areal, doch zu meiner Überraschung zeigt die Realität etwas anderes: Ein Wissenschaftsjournalist hat einmal ironisch geschrieben, den Anblick vom CERN als den einer “bankrottgegangenen Schraubenfabrik” und ich stimme ihm zu. Bernhard erzählt mir, dass sich Besucher oder Neuangestellte sehr einfach verlaufen können, denn die Nummerierung der Gebäude macht überhaupt keinen Sinn.  
+
+Seit ich klein war, war es immer ein Wunsch von mir gewesen, das CERN zu besuchen. Jetzt, als mein Wunsch endlich in Erfüllung geht, bin ich ehrlich gesagt ein wenig enttäuscht von diesem Anblick. Ich bin mir aber sicher, dass sich das im Verlauf des Besuchs noch ändern wird. 
+
+Bernhard rechtfertigt das Aussehen des CERNs damit, dass das CERN im Jahr 1954 gegründet wurde, um den wissenschaftlichen Fortschritt und die Zusammenarbeit der Länder auf wissenschaftlichem Gebiet nach dem zweiten Weltkrieg anzukurbeln und “seitdem jeder Cent in die Wissenschaft investiert wurde”. Das CERN verfolgt die Ziele, die Grundlagenforschung und die damit verbundene Technologie weiterzuentwickeln, Nationalitäten und Diversitäten zusammenzubringen, junge Menschen zu inspirieren und auszubilden und natürlich die Geheimnisse des Kosmos zu lüften. Als europäische Organisation für Kernforschung muss das CERN politisch neutral sein und die gesamte Menschheit mithilfe der Wissenschaft unterstützen. 
+
+
+
+###### Ein Teilchenbeschleuniger im Kleinformat 
+
+
+
+Nach einem Gespräch mit Bernhard führt er mich im Gebäude herum und wir machen uns auf den Weg zu einem der Teilchenbeschleuniger. Dabei gehen wir an einer grossen Halle vorbei. Wenn ein Teilchenbeschleuniger abgebaut wird oder es aus anderen Gründen überschüssiges Material gibt, wird es hier gelagert. Bernhard teilt mir mit, dass es sich das CERN nicht leisten kann, diese Teile wegzuwerfen. Die Ingenieure und Physiker finden gemeinsam heraus, wie gross ein Magnet z.B. sein muss und aus welchem Material dieser sein soll. Der Grund für den hohen Preis der Teilchen ist, dass diese spezialangefertigt sein müssen. 
+
+Den LHC (Large Hadron Collider), den grössten Teilchenbeschleuniger am CERN, kann mir Bernhard leider nicht zeigen, jedoch zeigt er anhand vom LEIR, einem kompakten Teilchenbeschleuniger, wie der LHC etwa funktioniert. Aber was ist ein Teilchenbeschleuniger? Ein Teilchenbeschleuniger – wie der Name schon sagt – beschleunigt winzig kleine Teilchen wie Protonen oder Ionen. Da diese Teilchen so leicht sind, erreichen sie unglaublich hohe Geschwindigkeiten – Protonen können annährend so schnell wie Licht werden. Die im LEIR beschleunigten Blei Ionen erreichen bis zu 30% der Lichtgeschwindigkeit. Diese grosse Beschleunigung gibt den Teilchen eine grosse Energie. Beschleunigt werden die Teilchen durch sogenannte Hohlraumresonatoren. Sie erzeugen elektromagnetische Wellen, auf denen die Teilchen «surfen». Die elektrische Feldkomponente dieser “stehenden Wellen” wechsel abwechselnd zwischen positiv und negativ. Wenn eine Gruppe von positiv geladenen Blei Ionen vor einem Hohlraumresonator ist, dann ist das elektrisches Feld negativ – die Ionen werden also angezogen. Genau wenn die Ionen durch den Hohlraumresonator gehen, dreht das Feld um und die Ionen werden weggestossen. Dank Einstein wissen wir, dass die Energie der Teilchen proportional zu deren Masse ist und demnach umgewandelt werden kann. Wenn also zwei hochenergetische Teilchen aufeinandertreffen, wird die Energie freigesetzt und neue Teilchen können entstehen und genau diese neuen Teilchen sind interessant.  
+
+Genau auf diesem Prinzip basiert eine der grössten Entdeckungen am CERN: Der Beweis der Existenz des Higgs-Teilchens. Das Higgs-Teilchen ist ein Boson, das den Elementarteilchen ihre Masse gibt. Ohne das Higgs-Teilchen gäbe es wahrscheinlich keine Masse – beziehungsweise kein Gewicht – zumindest so wie wir sie kennen. Bernhard Holzer erklärte mir wie dieses Teilchen gefunden worden ist, wie man in der Zukunft mehr Teilchen entdecken wird und was uns in der Gegenwart davon abhält. Weitere Teilchen findet man nach demselben Prinzip, man braucht aber mehr Energie. Dazu bräuchte man ein leistungsfähigeres supraleitendes Material für die Magneten oder man müsste einen noch grösseren Teilchenbeschleuniger bauen.
