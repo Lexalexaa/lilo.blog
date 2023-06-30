@@ -4,7 +4,7 @@ draft = false
 image = ""
 description = ""
 +++
-![](oug2.jpg)
+![](oug2-min.jpg)
 
 ## Alexandra N.
 
