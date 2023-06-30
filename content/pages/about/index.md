@@ -1,13 +1,13 @@
 +++
 title = "About me"
-draft = false
+draft = true
+image = "cyborgs6.jpg"
 description = ""
-image = ""
 +++
 ![](/img/default-author.jpg)
 
-## My Name
+## Alexandra N.
 
-mail@example.org
+alexandra.nistorescu@mygymer.ch
 
-Here should be some info about me...
+Gymnasium Kirchenfeld M25C
