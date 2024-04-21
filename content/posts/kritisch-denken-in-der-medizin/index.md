@@ -3,7 +3,7 @@ title = "Kritisch Denken in der Medizin"
 date = "2024-04-21"
 draft = false
 pinned = false
-tags = ["m25c", "kritischesdenken", ""]
+tags = ["m25c", "kritischesdenken"]
 +++
 
 
