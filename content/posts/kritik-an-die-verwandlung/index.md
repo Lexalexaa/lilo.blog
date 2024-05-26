@@ -1,7 +1,7 @@
 +++
 title = "Kritik an \"Die Verwandlung\""
 date = "2024-05-26"
-draft = true
+draft = false
 pinned = false
 tags = ["deutsch", "m25c", "kafka", "dieverwandlung"]
 +++
