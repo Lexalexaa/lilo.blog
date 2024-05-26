@@ -4,6 +4,7 @@ date = "2024-05-26"
 draft = false
 pinned = false
 tags = ["deutsch", "m25c", "kafka", "dieverwandlung"]
+image = "kafka.jpg"
 +++
 Im Deutsch Unterricht haben wir uns Kafkas «Die Verwandlung» angeschaut. Der Text folgt Gregor Samsa, ein Handelsreisender, während der letzten Wochen seines Lebens. 
 
