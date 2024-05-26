@@ -1,7 +1,7 @@
 +++
 title = "Liebesmotif in Woyzeck"
 date = "2024-04-21"
-draft = false
+draft = true
 pinned = false
 tags = ["m25c", "woyzeck", "deutsch"]
 image = "screenshot-2024-05-26-222852-min.jpeg"
