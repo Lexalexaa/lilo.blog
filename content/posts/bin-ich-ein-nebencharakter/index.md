@@ -2,7 +2,7 @@
 title = "Bin ich ein Nebencharakter?"
 date = "2024-10-31"
 draft = false
-pinned = false
+pinned = true
 tags = ["deutsch", "m25c"]
 image = "nathan-der-weise-figurenkonstellation-scaled-ff24118f.jpeg"
 footnotes = "Bild Quelle: https://www.inhaltsangabe.de/lessing/nathan-der-weise/figuren/"
